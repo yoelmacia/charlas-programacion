@@ -21,14 +21,26 @@ Espero que sea sencillo, comprensible y que tenga sentido.
 
 ## Los niveles de formato son cuatro 
 
-La sección principal o primer nivel será el lenguaje de programación. Por ejemplo -> Javascript.
+Crea un Pull Request, siguiendo los siguientes pasos.
 
-Segundo nivel framework -> Por ejemplo, React, si hablamos de Javascript se pondra dentro de la sección anterior.
+La sección principal o primer nivel será el lenguaje de programación. Por ejemplo -> Javascript. Si quieres agregar un nuevo lenguaje dimelo o ponlo en el Pull Request.
 
-Tercer nivel tema -> Por ejemplo, Testing.
+Segundo nivel framework -> Por ejemplo, VueJS, si hablamos de Javascript se pondra dentro de la sección anterior.
 
-Cuarto nivel enlace a la charla con el nombre de la tematica, de autor, la duración, el año y opcional twitter ->
+Tercer nivel tema -> Por ejemplo, Reactividad.
 
-Testing Practico con Javascript [00:38:55] de Ramón Guijarro [2018] twitter
+Cuarto nivel enlace a la charla con el nombre de la tematica, evento o nombre del evento, de autor, la duración, el año y opcional twitter ->
+
+¿Cómo funciona la reactividad en VueJS? Implementando un sistema reactivo desde cero - en el evento T3chFest - duración [00:44:36] de **Rubén Valseca** en el año (2019) y twitter/github opcional (https://twitter.com/rubnvp)
 
 Muy importante organizar vuestros pull request por el año, sino no seran aceptados.
+
+### Contenido
+
+* [JavaScript](#javascript)
+
+#### JavaScript
+
+### VueJS
+
+* [¿Cómo funciona la reactividad en VueJS? Implementando un sistema reactivo desde cero](https://www.youtube.com/watch?v=axXwWU-L7RM) en el evento T3chFest - [00:44:36] de **Rubén Valseca** (2019)
