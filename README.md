@@ -35,12 +35,12 @@ Cuarto nivel enlace a la charla con el nombre de la tematica, evento o nombre de
 
 Muy importante organizar vuestros pull request por el año, sino no seran aceptados.
 
-### Contenido
+## Contenido
 
 * [JavaScript](#javascript)
 
-#### JavaScript
+### JavaScript
 
-### VueJS
+#### VueJS
 
 * [¿Cómo funciona la reactividad en VueJS? Implementando un sistema reactivo desde cero](https://www.youtube.com/watch?v=axXwWU-L7RM) en el evento T3chFest - [00:44:36] de **Rubén Valseca** (2019)
