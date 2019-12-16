@@ -31,17 +31,20 @@ Tercer nivel tema -> Por ejemplo, Reactividad.
 
 Cuarto nivel enlace a la charla con el nombre de la tematica, evento o nombre del evento, de autor, la duración, el año y opcional twitter ->
 
-¿Cómo funciona la reactividad en VueJS? Implementando un sistema reactivo desde cero - en el evento T3chFest - duración [00:44:36] de **Rubén Valseca** en el año (2019) y twitter/github opcional (https://twitter.com/rubnvp)
+¿Cómo funciona la reactividad en VueJS? Implementando un sistema reactivo desde cero - en el evento T3chFest - duración [00:44:36] el autor es **Rubén Valseca** en el año (2019) y twitter/github opcional (https://twitter.com/rubnvp)
 
 Muy importante organizar vuestros pull request por el año, sino no seran aceptados.
 
-## Contenido
+# Contenido
 
 * [JavaScript](#javascript)
     * [VueJS](#vueJS)
+        * [Reactividad](#reactividad) 
 
-### JavaScript
+## JavaScript
 
-#### VueJS
+### VueJS
 
-* [¿Cómo funciona la reactividad en VueJS? Implementando un sistema reactivo desde cero](https://www.youtube.com/watch?v=axXwWU-L7RM) en el evento T3chFest - [00:44:36] de **Rubén Valseca** (2019)
+#### Reactividad
+
+* [¿Cómo funciona la reactividad en VueJS? Implementando un sistema reactivo desde cero](https://www.youtube.com/watch?v=axXwWU-L7RM) en el evento T3chFest - [00:44:36] de duración el autor es **Rubén Valseca** en el año (2019) su twitter/github es (https://twitter.com/rubnvp)
